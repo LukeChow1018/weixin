@@ -1,0 +1,5 @@
+/Data/*
+/Runtime/*
+/Uploads/*
+/.gitignore
+/Application/Common/Conf/config.php
